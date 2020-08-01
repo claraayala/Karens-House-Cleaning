@@ -141,6 +141,9 @@
 
   .service-item {
     padding: 40px 25px 32px;
+    
+
+    
   }
 
   .pricing-box {
@@ -296,7 +299,8 @@
   }
 
   #navigation.small-screen > ul {
-    margin-top: 10px;
+    width: 50%;
+    float: right;
     border-left: 1px solid rgba(120, 120, 120, 0.2);
     border-right: 1px solid rgba(120, 120, 120, 0.2);
     border-bottom: 1px solid rgba(120, 120, 120, 0.2);
@@ -374,6 +378,14 @@
 
   .slider_btn a {
     margin-top: 15px;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+
+  .fa-4x {
+    font-size: 2em;
   }
  
  /*--------------------------------------
@@ -479,6 +491,10 @@
   .cta-section,
 .video-section {
     background-size: cover;
+  }
+
+  .service-item {
+    padding-bottom: 700px !important;
   }
 /*--------------------------------------
    footer Section

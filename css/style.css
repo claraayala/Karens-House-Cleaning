@@ -1199,7 +1199,7 @@ section {
 .service-item {
   background: #f6f6f8;
   padding: 60px;
-  padding-bottom: 50% !important;
+  padding-bottom: 50%;
   -webkit-transition: all 0.4s ease-out 0s;
   -moz-transition: all 0.4s ease-out 0s;
   -ms-transition: all 0.4s ease-out 0s;
